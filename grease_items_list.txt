@@ -1,0 +1,18 @@
+004 Argentia
+002 Blade Grease
+006 Brown Oil
+005 Crinfrid Oil
+021 Diamond Dust
+020 GrindStone
+003 Hanged Man's venom
+010 Insectoid Oil
+008 Necrophage Oil
+007 Ornithosaur Oil
+024 Perun Rune Stone
+001 Specter oil
+023 Savrog Rune Stone
+012 Unknown Coating
+011 Unknown Coating
+009 Vampire Oil
+022 Vodon Rune Stone
+019 Whetstone

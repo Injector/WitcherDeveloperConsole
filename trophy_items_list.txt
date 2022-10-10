@@ -1,0 +1,10 @@
+001 Teyu Head // it_trophy_001
+002 Alghoul Head // it_trophy_002
+003 Cockatrice Head // it_trophy_003
+004 Wolf Head // it_trophy_004
+005 Female Wyvern Head // it_trophy_005
+006 Cemetaur Head // it_trophy_006
+007 Archespore Head // it_trophy_007
+008 Garkain Head // it_trophy_008
+009 Bruxa Head // it_trophy_009
+010 Drowned Dead Head // it_trophy_010

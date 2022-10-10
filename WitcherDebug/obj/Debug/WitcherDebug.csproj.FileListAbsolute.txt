@@ -1,0 +1,13 @@
+C:\WitcherDebug\WitcherDebug\bin\Debug\WitcherDebug.exe.config
+C:\WitcherDebug\WitcherDebug\bin\Debug\WitcherDebug.exe
+C:\WitcherDebug\WitcherDebug\bin\Debug\WitcherDebug.pdb
+C:\WitcherDebug\WitcherDebug\bin\Debug\Memory.dll
+C:\WitcherDebug\WitcherDebug\bin\Debug\Memory.xml
+C:\WitcherDebug\WitcherDebug\obj\Debug\WitcherDebug.csproj.AssemblyReference.cache
+C:\WitcherDebug\WitcherDebug\obj\Debug\WitcherDebug.Form1.resources
+C:\WitcherDebug\WitcherDebug\obj\Debug\WitcherDebug.Properties.Resources.resources
+C:\WitcherDebug\WitcherDebug\obj\Debug\WitcherDebug.csproj.GenerateResource.cache
+C:\WitcherDebug\WitcherDebug\obj\Debug\WitcherDebug.csproj.CoreCompileInputs.cache
+C:\WitcherDebug\WitcherDebug\obj\Debug\WitcherDebug.csproj.CopyComplete
+C:\WitcherDebug\WitcherDebug\obj\Debug\WitcherDebug.exe
+C:\WitcherDebug\WitcherDebug\obj\Debug\WitcherDebug.pdb

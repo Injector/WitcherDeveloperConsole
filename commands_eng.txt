@@ -1,0 +1,151 @@
+addgold <orens:int> - Adds orens
+Examples:
+addgolds 500 - Adds 500 orens
+
+addtalents <bronze:int> <silver:int> <gold:int> - Adds talents
+Examples:
+addtalents 1 2 3 - Adds 1 bronze, 2 silvers, 3 golds
+addtalents 5 2 - Adds 5 bronzes and 2 silvers
+
+autosave - Autosave the game
+
+bindkey <key:string> <command:string> - Binds key to invoke the command
+Examples:
+bindkey  0 dm_settime 1 0 0 0 - Binds 0 key to set the game time
+
+buildversion - Displays the game version
+
+DebugMode <int> - Unknown, possibly for the lua scripts
+
+dm_gettime - Displayes current wold time
+
+dm_settime <hour:int> <minute:int> <second:int> <milisecond:int> - Set the game time
+Examples:
+dm_settime 1 0 0 0 - Sets to 1:00
+dm_settime 16 0 0 0 - Sets 16:00
+
+dm_jumptopoint <x:float> <y:float> - Teleports the player to the x y coords
+Examples:
+dm_jumptopoint 1602 1403
+
+dm_levelup - Sets max XP for the current level. To level-up, kill someone.
+
+dm_movetoarea <area:???> - Teleporting the player to the new map? Work in progress
+
+dm_spawncreature <creature:string> - Spawns NPC near the player, check npc_list.txt or monster_list.txt
+Examples:
+dm_spawncreature m0_cf_old01 - Spawns grandma
+
+dm_spawnitem <item:string> - Spawns item near the player, check armor_items_list.txt, steel_sword_items_list.txt etc
+Examples:
+dm_spawnitem it_stlswd_017 - Spawns the final boss Grandmaster's of the Order sword. Only available to him, the unique of the sword is 200% damage
+
+getgamephase - Displayes current game act, example: Act_1
+
+getmapinfo - Displayes game map info, example: area id: '0x8000709', angle: '1.707649', tileset: 'gl09', suffix: '', bmp: 'gl09', 2da: 'gl09'
+
+getplayerpos - Show the player's current position
+
+trace - Useful command for logs
+Examples:
+trace getplayerspos - Log getplayerpos
+trace buildversion - Log buildversion
+
+untrace - Clear logs
+
+g_cAuroraSettings.m_fMapRevealRange <range:float> - ???
+
+g_cAuroraSettings.m_nBattleFadeDuration <dur:int> - Sets fade time between "calm" and "battle" in milliseconds
+
+PleaseDie - Quit game
+
+g_bDontRenderTriMeshes <dont:bool> - Dont render static objects
+
+g_bAuroraSettings.m_bDialogShowNames <show:bool> - Show techical name of the NPC in dialogue
+
+g_cAuroraSettings.m_bDialogCameraDebug <show:bool> - Show lines to NPCs
+
+g_cAuroraSettings.m_bDrawActionPoints <show:bool> - ???
+
+g_cAuroraSettings.m_bDrawSpawnpoints <show:bool> - ???
+
+g_cAuroraSettings.m_bFreeFlightCamera <activate:bool> - Activates free camera, camera needs to be unlocked first
+
+g_cAuroraSettings.m_bKillAllAnimals <kill:bool> - Kills animals
+
+g_cAuroraSettings.m_bRenderSpeedTrees <render:bool> - Render trees
+
+g_cAuroraSettings.m_bRenderWalkMeshGeometry <show:bool> - Wireframe dynamic object's collider
+
+g_cAuroraSettings.m_bRenderStaticGeometry <show:bool> - Render static objects
+
+g_cAuroraSettings.m_bShowAttitudeToPlayer <show:bool> - Shows the circle attitude to the player
+
+g_cAuroraSettings.m_bShowFloatingModelName <show:bool> - Shows player model name above NPC
+
+g_cAuroraSettings.m_bShowFloatingName <show:bool> - Shows name above NPC
+
+g_cAuroraSettings.m_bSoftShadows <show:bool> - Soft shadows
+
+g_cAuroraSettings.m_bShowRoomInfo <show:bool> - Nav mesh?
+
+g_cAuroraSettings.m_bUnlockCamera <unlock:bool> - Unlocks camera. After that we can use free camera mode
+
+g_cAuroraSettings.m_fFloatingInfoMaxCameraDist <dist:float> - Set max floating text above NPC render distance
+
+g_cAuroraSettings.m_nGameDifficultySetting <diff:int> - Set game difficulty
+
+g_cAuroraSettings.m_nRenderMode <mode:int> - Set render mode
+
+g_bDisableAnimations <disable:bool> - Disable animations
+
+g_bDisableCameraAnimation <disable:bool> - Freezes the camera, dont follow the player
+
+g_cAuroraSettings.m_bDumpLoadingModels <dump:bool> - dump models, doesn't work?
+
+g_cAuroraSettings.m_bDumpLoadingSounds <dump:bool> - dump sounds, doesn't work?
+
+g_cAuroraSettings.m_bDumpLoadingTextures <dump:bool> - dump textures, doesn't work?
+
+dumpmodels - Dumps all models list to the The Witcher Enhanced Edition/System/models.log
+
+g_cAuroraSettings.m_fFogEndDistOverride <dist:float> Set end fog
+
+g_cAuroraSettings.m_fFogStartDistOverride <dist:float> Set start fog
+Examples:
+g_cAuroraSettings.m_fFogStartDistOverride 5000 - Remove fog
+
+unlockcamera <unlock:bool> - Аналог g_cAuroraSettings.m_bUnlockCamera
+
+LogTextures - Dumps all textures list to the The Witcher Enhanced Edition/System/TextureReport.log
+
+meminfo - Show data about RAM
+
+perfgraph - Graph with FPS, Tris and texture RAM
+
+peftcounter - Displays FPS, Tris, texture RAM. Format: (current/averrage/minum)
+
+openoldnewgame - Very interesting, loading "level selector" with old gui style from prototype builds
+
+setplayeranim <anim:string> - Set player's animation
+Try find animations with g_cAuroraSettings.m_bDrawFloatingAnimation
+Examples:
+setplayeranim walk - Walk anim
+setplayeranim run - Run anim
+
+selectedtexturestats - Current texture statistics, use with trace command
+
+textureview <show:bool> - Show textures, move by A and D. Selecting too much texture will cause texture airtefacts
+
+In progress: 
+
+g_cAuroraSettings.m_bCameraTransitions
+g_cAuroraSettings.m_fCharacterVisibility
+g_cAuroraSettings.m_bAlwaysRun
+g_cAuroraSettings.m_fFogStartDistOverride
+dm_movetoarea
+
+Enable free camera mode:
+
+g_cAuroraSettings.m_bUnlockCamera 1
+g_cAuroraSettings.m_bFreeFlightCamera 1

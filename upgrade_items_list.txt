@@ -1,0 +1,6 @@
+001 Red meteorite // it_upgrcomp_001
+002 Blue meteorite // it_upgrcomp_002
+003 Yellow meteorite // it_upgrcomp_003
+004 Sun Rune // it_upgrcomp_004
+005 Earth Rune // it_upgrcomp_005
+006 Moon Rune // it_upgrcomp_006

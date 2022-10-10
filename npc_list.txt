@@ -1,0 +1,60 @@
+m0_bandit01 // Thug
+m0_boy01 // Boy
+m0_cf_elf01 // Elf woman
+m0_cf_hooker01 // Hooker
+m0_cf_nob01 // Courtisan
+m0_cf_nob02 // Courtisan
+m0_cf_noble01 // Noblewoman
+m0_cf_old01 // Old woman
+m0_cf_peas01 // Peasant woman
+m0_cf_poor01 // Poor woman
+m0_cf_priest01 // Nurse
+m0_cf_town01 // Townswoman
+m0_cm_ban01 // Thug
+m0_cm_ban02 // Brawler
+m0_cm_ban03 // Thug
+m0_cm_ban04 // Brawler
+m0_cm_drui01 // Elder druid
+m0_cm_dwar01 // Dwarf
+m0_cm_dwar02 // Dwarf
+m0_cm_dwar03 // Dwarf
+m0_cm_dwar04 // Dwarf
+m0_cm_dwarf01 // Dwarf
+m0_cm_elf01 // Elf
+m0_cm_gard01 // Gardener
+m0_cm_guar01 // City guard
+m0_cm_kid01 // Boy
+m0_cm_kid02 // Boy
+m0_cm_noble01 // Nobleman
+m0_cm_nurs01 // Nurse
+m0_cm_ordr01 // Order footman
+m0_cm_ordr02 // Order footman
+m0_cm_ordr03 // Knight of the Order
+m0_cm_peas01 // Peasant
+m0_cm_poor01 // Beggar
+m0_cm_prie01 // Priest
+m0_cm_priest01 // Priest
+m0_cm_scoi01 // Scoia'tael scout
+m0_cm_scoi02 // Scoia'tael warrior
+m0_cm_scoi03 // Scoia'tael warrior
+m0_cm_scoi04 // Scoia'tael scout
+m0_cm_scoi05 // Scoia'tael scout
+m0_cm_slum01 // Thug
+m0_cm_slum02 // Thug
+m0_cm_town01 // Townsman
+m0_cm_trav01 // Antiquarian
+m0_cm_trav02 // Traveler
+m0_cm_trav03 // Traveler
+m0_cm_vil01 // Peasant
+m0_cm_vil02 // Peasant
+m0_fist01 // Tough fist fighter
+m0_gambler01 // Gambler
+m0_girl01 // Girl
+m0_guard01 // Guardsman
+m0_innkeep01 // Innkeeper
+m0_knight01 // Knight of the Order
+m0_smith01 // Blacksmith
+m0_vendor01 // Bookseller
+m0_whor01 // Hooker
+m0_whor02 // Hooker
+m0_witcher01 // Witcher

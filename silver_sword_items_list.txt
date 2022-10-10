@@ -1,0 +1,16 @@
+001 Witcher's Silver Sword //it_svswd_001
+002 Witcher's Silver Sword //it_svswd_002
+003 Witcher's Silver Sword //it_svswd_003
+004 Witcher's Silver Sword //it_svswd_004
+005 Aerondight // it_svswd_005
+006 Moonblade // it_svswd_006
+sss Rune Sword // it_svswd_sss
+ees Rune Sword // it_svswd_ees
+mee Rune Sword // it_svswd_mee
+mme Rune Sword // it_svswd_mme
+ssm Rune Sword // it_svswd_ssm
+smm Rune Sword // it_svswd_smm
+ess Rune Sword // it_svswd_ess
+mmm Rune Sword // it_svswd_mmm
+sme Rune Sword // it_svswd_sme
+eee Rune Sword // it_svswd_eee

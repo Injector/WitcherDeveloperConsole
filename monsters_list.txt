@@ -1,0 +1,22 @@
+m0_alp // Alp
+m0_bhead // Skullhead
+m0_bloed // Bloedzuiger
+m0_bruxa // Bruxa
+m0_cocat // Cockatrice
+m0_drown // Drowner
+m0_echin // Echinops
+m0_expfs // Mutant
+m0_fled // Fleder
+m0_ghoul // Ghoul
+m0_grav // Graveir
+m0_hag // Devourer
+m0_ifryt / Ifrit
+m0_kkwor // Kikimore worker
+m0_kosh // Koshchey
+m0_polud // Noonwraith
+m0_spect // Wraith
+m0_strig // Striga
+m0_vopri // Vodyanoi priest
+m0_vowar // Vodyanoi warrior
+m0_wolf // Wolf
+m0_wrwlf // Werewolf

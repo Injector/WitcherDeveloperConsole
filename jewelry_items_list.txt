@@ -1,0 +1,25 @@
+rings
+001 Silver Ring
+002 Silver Amber Ring
+003 Silver Ruby Ring
+004 Gold Ring
+005 Gold Sapphire Ring
+006 Gold Diamond Ring
+007 Silver Signet Ring
+008 Silver Ruby Signet Ring
+009 Gold Signet Ring
+010 Gold Ruby Signet Ring
+011 Eternal Fire Signet Ring
+012 City Guard Signet Ring
+013 The Prophet Lebioda's Signet Ring
+014 Illumianti Signet Ring
+015 House of the Night Signet Ring
+016 Royal Signet Ring
+017 Family Ring
+
+Necklace
+001 Silver Necklace
+002 Silver and Amber Necklace
+003 Gold Necklace
+004 Gold and Ruby Necklace
+005 Gold and Diamond Necklace

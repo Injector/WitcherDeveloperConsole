@@ -1,0 +1,38 @@
+These potions has a "r", "a", and "n" variant on top of the normal one.
+i.e. it_potion_021, it_potion_021r, it_potion_021a, it_potion_021n
+021 BindWeed
+020 Black Blood
+019 Blizzard
+013 Cat
+025 De Vries' Extract
+027 Failed Potion
+014 Fisstech
+022 Full Moon
+008 Golden Oriole
+018 Kiss
+009 Maribor Forest
+007 Perfume
+012 Petri's Philter
+016 Shrike
+004 Swallow
+003 Tawny Owl
+023 ThunderBolt
+002 White Gull
+005 White Honey
+010 White Raffard's Decoction
+024 Willow
+006 Wives' Tears
+017 Wolf
+011 Wolverine
+
+These ones only have one command
+101 Dagon Sap
+105 Frightener's Vision
+104 Golem's Pith
+106 Hellhound's Soul
+106 Kikimore's Ire
+108 Koshchey's Core
+107 Striga's Urge
+152 Viziman Champion
+102 Werewolf's Wrath
+109 Zeugl's Vigor

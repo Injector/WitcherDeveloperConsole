@@ -1,0 +1,5 @@
+001 Amber // it_gem_001
+002 Sapphire // it_gem_002
+003 Ruby // it_gem_003
+004 Diamond // it_gem_004
+005 Huge Diamond // it_gem_005

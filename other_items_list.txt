@@ -1,0 +1,19 @@
+018 Barghest Skull
+021 Basilisk Hide
+022 Chitinous Carapace
+012 Daisies
+020 Fleder Fangs
+024 Flint
+016 Gold Women's Gloves
+011 Orchids
+007 Red Roses
+013 Red Shawl
+015 Red Women's Glove
+023 Salamander Brooch
+017 Shawl
+014 Silk Scarf
+025 Squirrel Puff
+010 Tulips
+008 White Roses
+019 Wolf Pelt
+009 Yellow Roses

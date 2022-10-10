@@ -1,0 +1,7 @@
+001 Trews and a shirt // it_witcharm_001
+002 Studded leather jacket // it_witcharm_002
+003 Excellent leather Jacket // it_witcharm_003
+004 Raven's Armor // it_witcharm_004
+005 Raven's Armor of the Order // it_witcharm_005
+006 Raven's Armor of the Elves // it_witcharm_006
+007 Armor 5c // it_witcharm_007

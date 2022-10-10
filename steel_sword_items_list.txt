@@ -1,0 +1,25 @@
+001 Witcher's Steel sword // it_stlswd_001
+005 Temerian Steel sword // it_stlswd_005
+006 Rusty Sword // it_stlswd_006
+007 Sword of the Order // it_stlswd_007
+008 Illegal Sword // it_stlswd_008
+009 Holy Sword of the Order // it_stlswd_009
+010 Elven Sword of the Blue Mountains // it_stlswd_010
+011 Ceremonial Sword of Deithwen // it_stlswd_011
+012 Mahakaman Rune Sihill // it_stlswd_012
+013 Dol Blathanna Rune Sword // it_stlswd_013
+014 Harvall // it_stlswd_014
+015 Gwalhir // it_stlswd_015
+016 D'yaebl // it_stlswd_016
+017 Ard'aenye // it_stlswd_017
+099 Ard'aenye // it_stlswd_099
+rrb Meteorite Sword // it_stlswd_rrb
+bbb Meteorite Sword // it_stlswd_bbb
+yyy Meteorite Sword // it_stlswd_yyy
+byy Meteorite Sword // it_stlswd_byy
+yyr Meteorite Sword // it_stlswd_yyr
+rrr Meteorite Sword // it_stlswd_rrr
+rbb Meteorite Sword // it_stlswd_rbb
+yrr Meteorite Sword // it_stlswd_yrr
+bby Meteorite Sword // it_stlswd_bby
+rby Meteorite Sword // it_stlswd_rby

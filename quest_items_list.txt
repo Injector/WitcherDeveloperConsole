@@ -1,0 +1,145 @@
+Ain Soph Aur // it_scroll_009
+Alabaster Figurine // it_quest_181
+Alina's Broken Mirror // it_quest_176
+Alina's garland // it_quest185
+Angus' key // it_key_q3016_001
+Anti-illusion Philter // it_quest_136
+Arrest Warrant // it_quest_108
+Bandit's key // it_key_q3016_002
+Bandit's Letter / it_quest_114
+Bandit's Package // it_quest_116
+Berengar's Medallion // it_bera_medall
+Berengar's Letter // it_quset_187
+Berengar's notes on the Beast // it_quest_164
+Bifunctional fiber and alloy recirculator // it_quest_200
+Blood-stained Letter // it_quest_161
+Brooch // it_quest_212
+Cat Harness // it_quest_196
+Catoblepas meat // it_quest_210
+Chocc'mah Sephirah // it_quest_130
+Coating // it_quest_162
+Combustible mixture // it_quest_141
+Dandelion's Lute // it_quest_151
+Decryted Document // it_quest_167
+Dice Box // it_quest_199
+Dimetritium Amulet // it_quest_177
+Dwarf's Treasure // it_quest_153
+Encrypted Document // it_quest_166
+Family Ring // it_quest_140
+Famous Fist Fighter's Tooth // it_quest_206
+Ferner's Key // it_key_007
+Four-Leaf Clover // it_quest_195
+Ghe'vrath Sephirah // it_quest_127
+Glass Vial // it_quest_191
+Glean Enid // it_quest_135
+Gold Bracelet // it_quest_182
+Golden Calf // it_quest_184
+Grabek's Key // it_Key_003
+Gramp's Diamond // it_quest_180
+Grandma's Cordial // it_quest_158
+Grandma's Diary // it_quest_160
+Grandma's Pickle and Lard // it_quest_159
+Haren's Key // it_key_006
+Holy Flame // it_quest_148
+Horold's Key// it_ky_q3005_001
+Human Remains // it_quest_194
+Isa's Beads // it_quest_149
+Kalkstein's Notes // it_quest_229
+Keth'aar Sephirah // it_quest_129
+Key // it_key_021
+Key // it_key_022
+Key // it_key_024
+Key // it_key_q3042_001
+Key // it_key_29
+Key // it_key_q2130_002
+Key // it_key_023
+Key // it_quest_124
+key // key_l04_g35_01
+Key // it_key_025
+Key // it_key_q3042_002
+key // key_l04_g35_02
+Key // it_key_q2130_001
+Key // it_q2127
+Key // it_key_027
+key // it_quest_139
+key // key_zeugl
+Key // it_key_026
+Key // it_key_028
+Key // it_key_q3051_001
+Key // it_quest_121a
+Key // it_key_018
+Key // it_key_019
+Key // it_key_020
+key to Salamandra code // it_quest_165
+Kezah Sephirah // it_quest_131
+Letter From Gellert Bleinheim // it_quest_156
+Letter From Shani // it_quest_216
+Letter From Triss // it_quest_215
+Letter of Recommendation // it_quest_152
+Letter of Safe Conduct // it_quest_169
+Letter of Safe Conduct issued by the City Militia // it_quest_208
+Letter of Safe Conduct issued by the City Militia // it_quest_209
+Letter to Shani // it_quest_222
+Letter to Shani // it_quest_223
+Letter to Shani // it_quest_224
+Letter to Shani // it_quest_225
+Letter to Triss // it_quest_218
+Letter to Triss // it_quest_219
+Letter to Triss // it_quest_220
+Letter to Triss // it_quest_221
+Leuvaarden's Key // it_key_001
+Lighting Rod // it_quest_138
+List of Suspects // it_quest_213
+Lycanthropy Cure // it_quest_154
+Maal'Kad Sephirah // it_quest_125
+Magic Formula // it_quset_202
+Magic Sensor // it_quest_178
+Mysterious note // it_quest_171
+Neh'tza Sephirah // it_quest_134
+Notes of an elven minstrel // it_quest_207
+Old Key // Key_l04_g35_03
+Ostrit's Journal // it_quest_189
+Oth Sephirah // it_quest_128
+Piece of armor // it_quset_203
+Pograbek's Key // it_key_004
+Potion for Triss // it_potion_015
+Potion for Triss // it_potion_015a
+Potion for Triss // it_potion_015r
+Potion for Triss // it_potion_015n
+Power Stone // it_key_q3013_001
+Priest's Staff // it_quest_186
+Psilocybe // it_quest_170
+Receipt // it_quest_198
+Remains of Raven's Armor //it_quest_204
+Reverand's Key // it_key_005
+Royal Edicts // it_quest_205
+Royal Letter of Safe Conduct // it_quest_168
+Salamandra Documents // it_quest_157
+Sapphire // it_quest_155
+Scheffer's Key // it_key_002
+Secret Stolen from Kaer Morhen // it_quest_190
+Seeing Stone // it_quest_172
+Shard of Alina's mirror // it_quest_175
+Split Salamander Brooch // it_quest_117
+St.Gregory's Litany // it_quest_201
+Teleporting Crystal // it_quest_214
+Teterer's Key // it_key_008
+The Lady of the Lake's Ruby // it_quest_183
+The Legend of Saint Gregory // it_quest_230
+The Professor's Report // it_quest_188
+The Professor's Letter, Ready to send // it_quest_226
+The Secret Gates // it_scroll_008
+Tipperath Sephirah // it_quest_132
+Tower Tarot Card // it_quest_137
+Tower Mage's Book // it_quest_142
+Turquoise Necklace // it_quest_193
+Veen'ah Sephirah // it_quest_126
+Vivaldi's Letter // it_quest_123
+Vizima Cemetery Pass // it_quest_211
+Vodyanoi amulet // it_quest_150
+Vodyanoi ring // it_quest_179
+Witcher's Medallion // it_quest_163
+Wreath of immortelles // it_quest_192
+Y'esath Sephirah // it_quest_133
+Yaevinn's Letter // it_quest_122
+Yellow Milk // it_quest_197

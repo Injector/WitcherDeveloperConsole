@@ -1,0 +1,37 @@
+050 Alcohest
+202 Apple Juice
+702 Apple Juice
+051 Azoth
+007 Beauclair White
+701 Bottled Water
+201 Bottled Water
+031 Cherry Spirit Cordial
+005 Cintrian Faro
+205 Cow's Milk
+705 Cow's Milk
+030 Dwarven Spirit
+204 Goat's Milk
+704 Goat's Milk
+002 Kaedwenian Stout
+020 Local Pepper Vodka
+009 Mahakaman Mead
+042 Mandrake Cordial
+008 Mettina Rose
+021 Nifgaardian Lemon
+032 Plum Cordial
+203 Raspberry Juice
+703 Raspberry Juice
+024 Redanian Herbal
+004 Redanian Lager
+003 Rivian Kriek
+010 Sodden Mead
+023 Soldier's Hooch
+022 Temerian Rye
+033 Temerian Spirit
+006 Toussaint Red
+001 Viziman Champion
+041 Wormwood Spirit
+040 Wyvern Blood Spirit
+034 Zerrikanian Spirit
+
+q2125 Very Old Wine (quest item)

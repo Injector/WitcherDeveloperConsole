@@ -1,0 +1,112 @@
+302 A description of the Vodyanoi or the Fishpeople
+213 A guide to Vizima
+332 A small Book of Minerals
+217 Against Nonhumans
+210 An Invitation to Magic
+318 Animating the Inanimate
+220 Ars Amandi
+223 Ballads
+304 Baarghests
+219 Basics of Alchemy
+218 Cults and Religions of the Nordlings
+310 Curses and the Cursed
+155 Dagon Sap
+224 Diary of a Dice Collector
+225 Disenchating a Striga
+112 Dragon's Dream
+226 Elder Blood
+311 Experiment Notes
+222 Fairytales and Stories
+330 Feainnewedd
+325 Field Plants
+214 Foreign Lands
+211 Forensic Medicine
+115 Formula for De Vries' Extract
+118 Formula for Hanged man's Venom
+116 Formula for Maribor Forest
+117 Formula for Petri's Philter
+114 Formula for White Raffard's Decoction
+150 Frightener's Vision
+152 Golem's Pith
+312 Greater Brothers
+151 Hellhound's Soul
+231 Hymns of Madness and Despair
+227 Ithlinne's Prophecy
+154 Kikimore's Ire
+157 Koshchey's Core
+204 Lara's Gift
+010 Letter for Knight Eric
+007 Letter from Shani
+006 Letter from Triss
+201 Monstrum, or a portrayal of witchers
+303 Ornithosaurs
+101 Petri's Philter formula
+319 Physiologus
+329 Plants of Barren Lands
+209 Recent history
+328 Ritual Plants
+113 Samum
+111 Secrets of the Southern Masters
+202 Shadow People or the story of His Majesty's Secret Service
+215 Sorceresses and Sorcerers
+305 Specters, Wraiths, and the Damned
+156 Striga's Urge
+326 Subterranean Plants
+301 Swamp Monsters
+327 Swamp Plants
+221 The aftermath of the War
+341 The Alghoul Contract
+354 The Alp Contract
+342 The archespore Contract
+334 The Barghest Contract
+348 The Basilisk Contract
+355 The Bloedzuiger Contract
+313 The Book of Animals
+109 The Books of the Full Moon
+106 The Book of the Golden Oriole
+107 The Book of Kiss
+102 The Book of the Swallow
+105 The Book of the Tawny Owl
+108 The book of the Wolverine
+356 The Bruxa Contract
+343 The Cemetaur Contract
+344 The Cocktrice Contract
+207 The Conjunction of the Spheres
+351 The Devourer Contract
+317 The disease of Civilization
+349 The Dog Contract
+228 The Double Cross of Alzur
+337 The Drowned Dead Contract
+335 The Drowner Contract
+331 The Druid's Herbarium
+338 The Echinops Contract
+345 The Fleder Contract
+206 The Flower and the Flame
+315 The Frightener
+357 The Garkain Contract
+336 The Ghoul Contract
+346 The Ghoul Contract
+352 The Giant Centipede Contract
+339 The Graveir Contract
+333 The Great Book of Minerals
+208 The History of the World
+347 The Kikimore Contract
+216 The Kingdom of Temeria
+314 The Last Wish
+229 The Rivian Pogrom
+316 The Road of No Return
+203 The Story of Lara Dorren and Cragen of Lod
+230 The Temptation of Fire
+308 The tome of Fear and Loathing, Volume I
+309 The tome of Fear and Loathing, Volume II
+340 The Wolf Contract
+307 The Wonderful World of Insectoid
+358 The Wraith Contract
+353 The Wyvern Contract
+350 The Wyvern Egg Contract
+205 Transmutations and Metamorphoses
+306 Vampires: Facts and Myths
+153 Werewolf's Wrath
+110 Zerrikanian Alchemy
+212 Zerrikanian Insects and Other Vermin
+158 Zeugl Vigor

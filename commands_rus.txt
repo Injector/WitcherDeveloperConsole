@@ -1,0 +1,156 @@
+addgold <orens:int> - Добавляет орены
+Примеры:
+addgolds 500 - Добавляет 500 оренов
+
+addtalents <bronze:int> <silver:int> <gold:int> - Добавляет таланты
+Примеры:
+addtalents 1 2 3 - Добавляет 1 бронзу, 2 сереба, 3 золотых
+addtalents 5 2 - Добавляет 5 бронз и 2 сереба
+
+autosave - Автосейвит игру
+
+bindkey <key:string> <command:string> - Биндит клавишу для выполнение команды
+Примеры:
+bindkey  0 dm_settime 1 0 0 0 - Биндит 0 клавишу что-бы установить время
+
+buildversion - Показывает версию игры
+
+DebugMode <int> - Неизвнстно, скорее всего для lua скриптов
+
+dm_gettime - Получить текущее игровое время
+
+dm_settime <hour:int> <minute:int> <second:int> <milisecond:int> - Устанавливает игровое время
+Примеры:
+dm_settime 1 0 0 0 - Устанавливает время на 1:00
+dm_settime 16 0 0 0 - Устанавливает время на 16:00
+
+dm_jumptopoint <x:float> <y:float> - Телепортирует игрока в указанные координаты
+Примеры:
+dm_jumptopoint 1602 1403
+
+dm_levelup - Ставит максимальное XP текущего уровня. Чтобы перейти на новый уровень, убейте кого нибудь
+
+dm_movetoarea <area:???> - Телепортирует игрока в заданный мир?
+
+dm_spawncreature <creature:string> - Спаунит НПС рядом с игроком, подробнее смотрите в monsters_list.txt, npc_list.txt
+Примеры:
+dm_spawncreature m0_cf_old01 - Спаунит бабушку
+
+dm_spawnitem <item:string> - Спаунит предмет рядом с игроком, подробнее смотрите в armor_items_list.txt, steel_sword_items_list.txt и тд
+Примеры:
+dm_spawnitem it_stlswd_017 - Спаунит меч Великого Грандмастера Ордена, финального босса. Доступный только ему, уникальность меча состоит в 200% уроне
+
+getgamephase - Отображает текущий акт игры, к примеру Act_1
+
+getmapinfo - Отображает информацию о карте, к примеру area id: '0x8000709', angle: '1.707649', tileset: 'gl09', suffix: '', bmp: 'gl09', 2da: 'gl09'
+
+getplayerpos - Отображает позицию игрока
+
+trace - Полезная команда, которая "логирует" действия в нижнем углу и не исчезает через 2 секунды
+Примеры:
+trace getplayerspos - Отобразит позицию игрока
+trace buildversion - Отобразит версию игры
+
+untrace - Чистит весь текст в нижнем углу
+
+g_cAuroraSettings.m_fMapRevealRange <range:float> - ???
+
+g_cAuroraSettings.m_nBattleFadeDuration <dur:int> - Устанавливает паузу между "спокойствием" и "битвой" в милисекундах
+
+PleaseDie - Отключает игру
+
+Остальные команды, которые я изучил сам:
+
+g_bDontRenderTriMeshes <dont:bool> - Не рендерить статичные объекты уровня
+
+g_bAuroraSettings.m_bDialogShowNames <show:bool> - Показать техническое имя НПС в диалоге
+
+g_cAuroraSettings.m_bDialogCameraDebug - <show:bool> Показывает линии с ближайшими НПС
+
+g_cAuroraSettings.m_bDrawActionPoints <show:bool> - ???
+
+g_cAuroraSettings.m_bDrawSpawnpoints <show:bool> - ???
+
+g_cAuroraSettings.m_bFreeFlightCamera <activate:bool> - Активирует свободную камеру, сначало ее надо разблокировать
+
+g_cAuroraSettings.m_bKillAllAnimals <kill:bool> - Убивает животных
+
+g_cAuroraSettings.m_bRenderSpeedTrees <render:bool> - Рендерить деревья
+
+g_cAuroraSettings.m_bRenderWalkMeshGeometry <show:bool> - Сетка коллайдеров динамических объектов
+
+g_cAuroraSettings.m_bRenderStaticGeometry <show:bool> - Рендерить статичные объекты уровня
+
+g_cAuroraSettings.m_bShowAttitudeToPlayer <show:bool> - Показывает круг отношения к игроку
+
+g_cAuroraSettings.m_bShowFloatingModelName <show:bool> - Показыват название модели над NPC
+
+g_cAuroraSettings.m_bShowFloatingName <show:bool> - Показывает имя NPC
+
+g_cAuroraSettings.m_bSoftShadows <show:bool> - Сглаженные тени
+
+g_cAuroraSettings.m_bShowRoomInfo <show:bool> - Навигационная сетка?
+
+g_cAuroraSettings.m_bUnlockCamera <unlock:bool> - Разблокирует камеру, колесиком мыши можно отдалять. После разблокировки можно использоовать свободную камеру
+
+g_cAuroraSettings.m_fFloatingInfoMaxCameraDist <dist:float> - Ограничить дистанцию рендера текста над NPC
+
+g_cAuroraSettings.m_nGameDifficultySetting <diff:int> - Установить сложность игры
+
+g_cAuroraSettings.m_nRenderMode <mode:int> - Установить режим рендера
+
+g_bDisableAnimations <disable:bool> - Убирает анимации у всех объектов
+
+g_bDisableCameraAnimation <disable:bool> - Замирание камеры, не следить за игроков
+
+g_cAuroraSettings.m_bDumpLoadingModels <dump:bool> - дамп моделей, не работает?
+
+g_cAuroraSettings.m_bDumpLoadingSounds <dump:bool> - дамп звуков, не работает?
+
+g_cAuroraSettings.m_bDumpLoadingTextures <dump:bool> - дамп текстур, не работает?
+
+dumpmodels - Дампит список всех моделей в игре в файл The Witcher Enhanced Edition/System/models.log
+
+g_cAuroraSettings.m_fFogEndDistOverride <dist:float> - ставит конец тумана
+
+g_cAuroraSettings.m_fFogStartDistOverride <dist:float> - ставит начало тумана
+Примеры:
+g_cAuroraSettings.m_fFogStartDistOverride 5000 - Убирает туман
+
+unlockcamera <unlock:bool> - Аналог g_cAuroraSettings.m_bUnlockCamera
+
+LogTextures - Дампит список всех текстур в игре в файл The Witcher Enhanced Edition/System/TextureReport.log
+
+meminfo - Отображает данные об ОЗУ
+
+perfgraph - Графа с ФПС, треугольниками, и памяти текстур
+
+peftcounter - Отображает снизу фпс, Треугольники, Память текстур. Формат данных: (текущее/среднее/минимальное)
+Объяснения:
+FPS:122/095/063 - 122 текущих фпс, 095 фпс в среднем, 063 минимальное фпс
+
+openoldnewgame - Очень интересно, при вводе команды отображается меню "выбор уровней" в стиле старых билдов игры
+
+setplayeranim <anim:string> - Поставить анимацию игроку
+Объяснения:
+Попробуйте поискать анимации с помощью g_cAuroraSettings.m_bDrawFloatingAnimation
+Примеры:
+setplayeranim walk - Игрок будет идти
+setplayeranim run - Игрок будет бежать
+
+selectedtexturestats - Статистика выбранной текстуры, рекомендуется использовать с trace
+
+textureview <show:bool> - Показывает текстуру, если выбирать слишком много, будут дефекты с текстурами
+
+В процессе 
+
+g_cAuroraSettings.m_bCameraTransitions
+g_cAuroraSettings.m_fCharacterVisibility
+g_cAuroraSettings.m_bAlwaysRun
+setattitude
+dm_movetoarea
+
+Включить режим свободной камеры:
+
+g_cAuroraSettings.m_bUnlockCamera 1
+g_cAuroraSettings.m_bFreeFlightCamera 1
