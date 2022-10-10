@@ -23,7 +23,7 @@
 - **Icirian - составления айдишников предметов в игре**
 
 ### Ссылки на загрузку:
-- **[Приложение](https://github.com/SB-MaterialAdmin/Web/releases/release_1.zip)**
+- **[Приложение](https://github.com/Injector/WitcherDeveloperConsole/releases/download/1.0/release_1.zip)**
 
 <h1 align="center">
     <img src="https://xlebfactory.ru/data/w1.jpg" />
@@ -42,3 +42,5 @@
     
     Выбор уровней
 </h1>
+
+**[Больше скриншотов](https://imgur.com/a/tgqRqfz)**
