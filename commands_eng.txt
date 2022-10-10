@@ -137,6 +137,22 @@ selectedtexturestats - Current texture statistics, use with trace command
 
 textureview <show:bool> - Show textures, move by A and D. Selecting too much texture will cause texture airtefacts
 
+dumpDialogLine - Dump dialogue texts to The Witcher Enhanced Edition/System/DlgErrors.csv
+
+dumpdxbuffers - Dump buffer data to Witcher Enhanced Edition/System/dxbuffers.log
+
+dumpGraphs - Dump graph data to The Witcher Enhanced Edition/System/GraphsDump.txt
+
+dumpHeapReport - Dump heap to The Witcher Enhanced Edition/System/heapreport.log
+
+enabledefaultvoiceover <enable:bool> - There is should some default voice instread of mute NPCs
+
+fistfight - Activate fight mode
+
+getvisiblelightscount - Display count of visible lights
+
+activedialogs - Display all active dialogues between NPCs, recommend usage with trace
+
 In progress: 
 
 g_cAuroraSettings.m_bCameraTransitions

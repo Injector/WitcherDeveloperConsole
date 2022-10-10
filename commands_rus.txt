@@ -142,6 +142,22 @@ selectedtexturestats - Статистика выбранной текстуры,
 
 textureview <show:bool> - Показывает текстуру, если выбирать слишком много, будут дефекты с текстурами
 
+dumpDialogLine - Дампит текст диалога в файл The Witcher Enhanced Edition/System/DlgErrors.csv
+
+dumpdxbuffers - Дампит данные буфера в файл The Witcher Enhanced Edition/System/dxbuffers.log
+
+dumpGraphs - Дампит данные графа в файл The Witcher Enhanced Edition/System/GraphsDump.txt
+
+dumpHeapReport - Дампит данные в файл The Witcher Enhanced Edition/System/heapreport.log
+
+enabledefaultvoiceover <enable:bool> - По идее должен использоваться какой нибудь другой голос, но всё что делает эта команда, глушит НПС
+
+fistfight - Переключает игрока в режим кулачного боя
+
+getvisiblelightscount - Количество видимых источников света
+
+activedialogs - Отображает все активные диалоги между НПС, рекомендуется с trace
+
 В процессе 
 
 g_cAuroraSettings.m_bCameraTransitions
